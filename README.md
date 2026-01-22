@@ -1,1 +1,1 @@
-OpenHRC has been moved to [https://github.com/Automation-Research-Team/OpenHRC](https://github.com/Automation-Research-Team/OpenHRC).
+OpenHRC has been moved to [https://github.com/OpenHRC/OpenHRC](https://github.com/OpenHRC/OpenHRC).
